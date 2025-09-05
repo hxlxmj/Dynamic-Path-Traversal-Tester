@@ -11,7 +11,11 @@ It attempts multiple traversal techniques against a given endpoint and detects w
   - **Non-verbose (default)**: concise, professional output with colors.  
 
 ---
+## Demo
 
+![Demo](demo.gif)
+
+---
 ## Features
 - Built-in **10 traversal payload techniques**.
 - Automatic detection of `/etc/passwd`-like content.
